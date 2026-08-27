@@ -1,0 +1,16 @@
+{
+    "name": "moohamad/core",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Moohamad\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mouhamadoufallbah",
+            "email": "mouhamadoufall.bah@gmail.com"
+        }
+    ],
+    "require": {}
+}
