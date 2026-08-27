@@ -1,6 +1,7 @@
 {
     "name": "moohamad/core",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Moohamad\\Core\\": "src/"
@@ -12,5 +13,7 @@
             "email": "mouhamadoufall.bah@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=8.1"
+    }
 }
